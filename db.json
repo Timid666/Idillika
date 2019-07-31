@@ -1,0 +1,90 @@
+{
+  "banners": [
+    {
+      "productId": 1,
+      "imageLink": "https://i.ibb.co/gVKC6CG/banner-Image.png"
+    },
+    {
+      "productId": 2,
+      "imageLink": "https://i.ibb.co/PQfk6P5/banner-Image2.jpg"
+    },
+    {
+      "productId": 3,
+      "imageLink": "https://i.ibb.co/Pzqz2zX/banner-Image3.jpg"
+    },
+    {
+      "productId": 4,
+      "imageLink": "https://i.ibb.co/548fqFZ/banner-Image4.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "categoryId": 1,
+      "categoryImageLink": "https://i.ibb.co/PzVNLKH/image.png"
+    },
+    {
+      "categoryId": 2,
+      "categoryImageLink": "https://i.ibb.co/fk7pHQW/image.png"
+    },
+    {
+      "categoryId": 3,
+      "categoryImageLink": "https://i.ibb.co/tzStDXP/image.png"
+    },
+    {
+      "categoryId": 4,
+      "categoryImageLink": "https://i.ibb.co/wsRfK2n/image.png"
+    },
+    {
+      "categoryId": 5,
+      "categoryImageLink": "https://i.ibb.co/hHtY2Z8/image.png"
+    },
+    {
+      "categoryId": 6,
+      "categoryImageLink": "https://i.ibb.co/MNB2dtF/image.png"
+    },
+    {
+      "categoryId": 7,
+      "categoryImageLink": "https://i.ibb.co/gTwCXPb/Modest-Fashion.png"
+    }
+  ],
+  "thisWeekPapers": [
+    {
+      "paperId": 1,
+      "paperImageLink": "https://i.ibb.co/SX3YY7g/news.png",
+      "title": "Рассматриваем свадебный наряд леди Габриэллы Виндзор",
+      "description": "В рамках Каннского кинофестиваля"
+    },
+    {
+      "paperId": 2,
+      "paperImageLink": "https://i.ibb.co/0X2Nr2p/news2.png",
+      "title": "Рассматриваем свадебный наряд леди Габриэллы Виндзор",
+      "description": "В рамках Каннского кинофестиваля"
+    },
+    {
+      "paperId": 3,
+      "paperImageLink": "https://i.ibb.co/s5Sc6wj/news3.png",
+      "title": "Рассматриваем свадебный наряд леди Габриэллы Виндзор",
+      "description": "В рамках Каннского кинофестиваля"
+    }
+  ],
+  "lastViewProducts": [
+    {
+      "lastViewProductsId": 1,
+      "lastViewProductsLink": "https://i.ibb.co/QkhLbQc/product.png",
+      "title": "Комбинезон в стиле малитари FASHION DESIGN",
+      "price": "10000"
+    },
+    {
+      "lastViewProductsId": 2,
+      "lastViewProductsLink": "https://i.ibb.co/HT2tzjy/product2.png",
+      "title": "Комбинезон в стиле малитари FASHION DESIGN",
+      "price": "10202"
+    },
+    {
+      "lastViewProductsId": 3,
+      "lastViewProductsLink": "https://i.ibb.co/bzVLN7d/product3.png",
+      "title": "Комбинезон в стиле малитари FASHION DESIGN",
+      "price": "12123"
+    }
+  ]
+}
