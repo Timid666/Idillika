@@ -20,31 +20,38 @@
   "categories": [
     {
       "categoryId": 1,
-      "categoryImageLink": "https://i.ibb.co/PzVNLKH/image.png"
+      "categoryImageLink": "https://i.ibb.co/hHtY2Z8/image.png"
+      "categoryTitle": "Одежда"
     },
     {
       "categoryId": 2,
-      "categoryImageLink": "https://i.ibb.co/fk7pHQW/image.png"
+      "categoryImageLink": "https://i.ibb.co/wsRfK2n/image.png"
+      "categoryTitle": "Обувь"
     },
     {
       "categoryId": 3,
-      "categoryImageLink": "https://i.ibb.co/tzStDXP/image.png"
+      "categoryImageLink": "https://i.ibb.co/MNB2dtF/image.png"
+      "categoryTitle": "Сумки"
     },
     {
       "categoryId": 4,
-      "categoryImageLink": "https://i.ibb.co/wsRfK2n/image.png"
+      "categoryImageLink": "https://i.ibb.co/gTwCXPb/Modest-Fashion.png"
+      "categoryTitle": "Modest Fashion"
     },
     {
       "categoryId": 5,
-      "categoryImageLink": "https://i.ibb.co/hHtY2Z8/image.png"
+      "categoryImageLink": "https://i.ibb.co/tzStDXP/image.png"
+      "categoryTitle": "Косметика"
     },
     {
       "categoryId": 6,
-      "categoryImageLink": "https://i.ibb.co/MNB2dtF/image.png"
+      "categoryImageLink": "https://i.ibb.co/PzVNLKH/image.png"
+      "categoryTitle": "Аксессуары"
     },
     {
       "categoryId": 7,
-      "categoryImageLink": "https://i.ibb.co/gTwCXPb/Modest-Fashion.png"
+      "categoryImageLink": "https://i.ibb.co/fk7pHQW/image.png"
+      "categoryTitle": "Для дома"
     }
   ],
   "thisWeekPapers": [
@@ -52,19 +59,19 @@
       "paperId": 1,
       "paperImageLink": "https://i.ibb.co/SX3YY7g/news.png",
       "title": "Рассматриваем свадебный наряд леди Габриэллы Виндзор",
-      "description": "В рамках Каннского кинофестиваля"
+      "description": "В рамках Каннского кинофестиваля состоялась премьера фильма Педро Альмодовара."
     },
     {
       "paperId": 2,
       "paperImageLink": "https://i.ibb.co/0X2Nr2p/news2.png",
-      "title": "Рассматриваем свадебный наряд леди Габриэллы Виндзор",
-      "description": "В рамках Каннского кинофестиваля"
+      "title": "Презентация новой коллекции Modest Fashion",
+      "description": "Благопристойная мода modest fashion покоряет мировые подиумы!"
     },
     {
       "paperId": 3,
       "paperImageLink": "https://i.ibb.co/s5Sc6wj/news3.png",
-      "title": "Рассматриваем свадебный наряд леди Габриэллы Виндзор",
-      "description": "В рамках Каннского кинофестиваля"
+      "title": "Эмбер Херд в платье и ботфортах на премьере фильма «Боль и слава»",
+      "description": "Эмбер Херд пришла на премьеру фильма «Боль и слава» в асимметричном наряде и кожаных ботфортах."
     }
   ],
   "lastViewProducts": [
@@ -72,19 +79,19 @@
       "lastViewProductsId": 1,
       "lastViewProductsLink": "https://i.ibb.co/QkhLbQc/product.png",
       "title": "Комбинезон в стиле малитари FASHION DESIGN",
-      "price": "10000"
+      "price": "4690"
     },
     {
       "lastViewProductsId": 2,
       "lastViewProductsLink": "https://i.ibb.co/HT2tzjy/product2.png",
-      "title": "Комбинезон в стиле малитари FASHION DESIGN",
-      "price": "10202"
+      "title": "Сарафан в полоску от AllSaints - Rolene",
+      "price": "2230"
     },
     {
       "lastViewProductsId": 3,
       "lastViewProductsLink": "https://i.ibb.co/bzVLN7d/product3.png",
-      "title": "Комбинезон в стиле малитари FASHION DESIGN",
-      "price": "12123"
+      "title": "Черное платье-футболка Monki",
+      "price": "1790"
     }
   ]
 }
