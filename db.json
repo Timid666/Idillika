@@ -54,7 +54,7 @@
       "categoryTitle": "Для дома"
     }
   ],
-  "thisWeekPapers": [
+  "thisWeekPaper": [
     {
       "Id": 1,
       "ImageLink": "https://i.ibb.co/SX3YY7g/news.png",
@@ -74,7 +74,7 @@
       "description": "Эмбер Херд пришла на премьеру фильма «Боль и слава» в асимметричном наряде и кожаных ботфортах."
     }
   ],
-  "lastViewProducts": [
+  "lastViewProduct": [
     {
       "Id": 1,
       "imageLink": "https://i.ibb.co/QkhLbQc/product.png",
