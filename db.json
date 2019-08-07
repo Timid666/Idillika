@@ -56,82 +56,82 @@
   ],
   "thisWeekPapers": [
     {
-      "paperId": 1,
-      "paperImageLink": "https://i.ibb.co/SX3YY7g/news.png",
+      "Id": 1,
+      "ImageLink": "https://i.ibb.co/SX3YY7g/news.png",
       "title": "Рассматриваем свадебный наряд леди Габриэллы Виндзор",
       "description": "В рамках Каннского кинофестиваля состоялась премьера фильма Педро Альмодовара."
     },
     {
-      "paperId": 2,
-      "paperImageLink": "https://i.ibb.co/0X2Nr2p/news2.png",
+      "Id": 2,
+      "ImageLink": "https://i.ibb.co/0X2Nr2p/news2.png",
       "title": "Презентация новой коллекции Modest Fashion",
       "description": "Благопристойная мода modest fashion покоряет мировые подиумы!"
     },
     {
-      "paperId": 3,
-      "paperImageLink": "https://i.ibb.co/s5Sc6wj/news3.png",
+      "Id": 3,
+      "ImageLink": "https://i.ibb.co/s5Sc6wj/news3.png",
       "title": "Эмбер Херд в платье и ботфортах на премьере фильма «Боль и слава»",
       "description": "Эмбер Херд пришла на премьеру фильма «Боль и слава» в асимметричном наряде и кожаных ботфортах."
     }
   ],
   "lastViewProducts": [
     {
-      "lastViewProductsId": 1,
-      "lastViewProductsLink": "https://i.ibb.co/QkhLbQc/product.png",
+      "Id": 1,
+      "imageLink": "https://i.ibb.co/QkhLbQc/product.png",
       "title": "Комбинезон в стиле малитари FASHION DESIGN",
       "price": "4690"
     },
     {
-      "lastViewProductsId": 2,
-      "lastViewProductsLink": "https://i.ibb.co/HT2tzjy/product2.png",
+      "Id": 2,
+      "imageLink": "https://i.ibb.co/HT2tzjy/product2.png",
       "title": "Сарафан в полоску от AllSaints - Rolene",
       "price": "2230"
     },
     {
-      "lastViewProductsId": 3,
-      "lastViewProductsLink": "https://i.ibb.co/bzVLN7d/product3.png",
+      "Id": 3,
+      "imageLink": "https://i.ibb.co/bzVLN7d/product3.png",
       "title": "Черное платье-футболка Monki",
       "price": "1790"
     },
     {
-      "lastViewProductsId": 4,
-      "lastViewProductsLink": "https://i.ibb.co/QkhLbQc/product.png",
+      "Id": 4,
+      "imageLink": "https://i.ibb.co/QkhLbQc/product.png",
       "title": "Комбинезон в стиле малитари FASHION DESIGN",
       "price": "4690"
     },
     {
-      "lastViewProductsId": 5,
-      "lastViewProductsLink": "https://i.ibb.co/HT2tzjy/product2.png",
+      "Id": 5,
+      "imageLink": "https://i.ibb.co/HT2tzjy/product2.png",
       "title": "Сарафан в полоску от AllSaints - Rolene",
       "price": "2230"
     },
     {
-      "lastViewProductsId": 6,
-      "lastViewProductsLink": "https://i.ibb.co/bzVLN7d/product3.png",
+      "Id": 6,
+      "imageLink": "https://i.ibb.co/bzVLN7d/product3.png",
       "title": "Черное платье-футболка Monki",
       "price": "1790"
     },
     {
-      "lastViewProductsId": 7,
-      "lastViewProductsLink": "https://i.ibb.co/QkhLbQc/product.png",
+      "Id": 7,
+      "imageLink": "https://i.ibb.co/QkhLbQc/product.png",
       "title": "Комбинезон в стиле малитари FASHION DESIGN",
       "price": "4690"
     },
     {
-      "lastViewProductsId": 8,
-      "lastViewProductsLink": "https://i.ibb.co/HT2tzjy/product2.png",
+      "Id": 8,
+      "imageLink": "https://i.ibb.co/HT2tzjy/product2.png",
       "title": "Сарафан в полоску от AllSaints - Rolene",
       "price": "2230"
     },
     {
-      "lastViewProductsId": 9,
-      "lastViewProductsLink": "https://i.ibb.co/bzVLN7d/product3.png",
+      "Id": 9,
+      "imageLink": "https://i.ibb.co/bzVLN7d/product3.png",
       "title": "Черное платье-футболка Monki",
       "price": "1790"
     },
     {
-      "lastViewProductsId": 10,
-      "lastViewProductsLink": "https://i.ibb.co/QkhLbQc/product.png",
+      "Id": 10,
+      "imageLink": "https://i.ibb.co/QkhLbQc/product.png",
       "title": "Комбинезон в стиле малитари FASHION DESIGN",
       "price": "4690"
     }
