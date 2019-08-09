@@ -19,39 +19,39 @@
   ],
   "categories": [
     {
-      "categoryId": 1,
-      "categoryImageLink": "https://i.ibb.co/hHtY2Z8/image.png",
-      "categoryTitle": "Одежда"
+      "id": 1,
+      "imageLink": "https://i.ibb.co/hHtY2Z8/image.png",
+      "title": "Одежда"
     },
     {
-      "categoryId": 2,
-      "categoryImageLink": "https://i.ibb.co/wsRfK2n/image.png",
-      "categoryTitle": "Обувь"
+      "id": 2,
+      "imageLink": "https://i.ibb.co/wsRfK2n/image.png",
+      "title": "Обувь"
     },
     {
-      "categoryId": 3,
-      "categoryImageLink": "https://i.ibb.co/MNB2dtF/image.png",
-      "categoryTitle": "Сумки"
+      "id": 3,
+      "imageLink": "https://i.ibb.co/MNB2dtF/image.png",
+      "title": "Сумки"
     },
     {
-      "categoryId": 4,
-      "categoryImageLink": "https://i.ibb.co/gTwCXPb/Modest-Fashion.png",
-      "categoryTitle": "Modest Fashion"
+      "id": 4,
+      "imageLink": "https://i.ibb.co/gTwCXPb/Modest-Fashion.png",
+      "title": "Modest Fashion"
     },
     {
-      "categoryId": 5,
-      "categoryImageLink": "https://i.ibb.co/tzStDXP/image.png",
-      "categoryTitle": "Косметика"
+      "id": 5,
+      "imageLink": "https://i.ibb.co/tzStDXP/image.png",
+      "title": "Косметика"
     },
     {
-      "categoryId": 6,
-      "categoryImageLink": "https://i.ibb.co/PzVNLKH/image.png",
-      "categoryTitle": "Аксессуары"
+      "id": 6,
+      "imageLink": "https://i.ibb.co/PzVNLKH/image.png",
+      "title": "Аксессуары"
     },
     {
-      "categoryId": 7,
-      "categoryImageLink": "https://i.ibb.co/fk7pHQW/image.png",
-      "categoryTitle": "Для дома"
+      "id": 7,
+      "imageLink": "https://i.ibb.co/fk7pHQW/image.png",
+      "title": "Для дома"
     }
   ],
   "articles": [
