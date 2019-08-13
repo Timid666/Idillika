@@ -1,19 +1,19 @@
 {
   "banners": [
     {
-      "productId": 1,
+      "id": 1,
       "imageLink": "https://i.ibb.co/gVKC6CG/banner-Image.png"
     },
     {
-      "productId": 2,
+      "id": 2,
       "imageLink": "https://i.ibb.co/PQfk6P5/banner-Image2.jpg"
     },
     {
-      "productId": 3,
+      "id": 3,
       "imageLink": "https://i.ibb.co/Pzqz2zX/banner-Image3.jpg"
     },
     {
-      "productId": 4,
+      "id": 4,
       "imageLink": "https://i.ibb.co/548fqFZ/banner-Image4.jpg"
     }
   ],
