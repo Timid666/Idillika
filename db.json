@@ -1,5 +1,5 @@
 {
-  "banners": [
+  /*"banners": [
     {
       "id": 1,
       "imageLink": "https://i.ibb.co/gVKC6CG/banner-Image.png"
@@ -16,7 +16,7 @@
       "id": 4,
       "imageLink": "https://i.ibb.co/548fqFZ/banner-Image4.jpg"
     }
-  ],
+  ],*/
   "categories": [
     {
       "id": 1,
@@ -53,7 +53,7 @@
       "imageLink": "https://i.ibb.co/fk7pHQW/image.png",
       "title": "Для дома"
     }
-  ],
+  ]/*,
   "articles": [
     {
       "id": 1,
@@ -135,5 +135,5 @@
       "title": "Комбинезон в стиле малитари FASHION DESIGN",
       "price": "4690"
     }
-  ]
+  ]*/
 }
