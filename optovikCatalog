@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "imageLink": "https://ibb.co/4RPy4m4",
+      "imageLink": "https://api.imgbb.com/1/upload",
       "title": "Картошка фри 9мл LW(S01) «Стелс»",
       "price": "345 ₽",
       "weight": "2,5 кг"
