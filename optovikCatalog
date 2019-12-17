@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageLink": "https://ibb.co/4RPy4m4",
+      "title": "Рыбное филе"
+    },
+    {
+      "id": 2,
+      "imageLink": "https://ibb.co/HGnyRT7",
+      "title": "Креветки,крабы и осьминоги"
+    },
+    {
+      "id": 3,
+      "imageLink": "https://ibb.co/7pf7nVr",
+      "title": "Икра"
+    },
+    {
+      "id": 4,
+      "imageLink": "https://ibb.co/3mDWfHY",
+      "title": "Водоросли"
+    },
+    {
+      "id": 5,
+      "imageLink": "https://ibb.co/XjKpGqS",
+      "title": "Маринады и растения"
+    },
+    {
+      "id": 6,
+      "imageLink": "https://ibb.co/NpMmjnZ",
+      "title": "Приправы и пасты"
+    },
+    {
+      "id": 7,
+      "imageLink": "https://ibb.co/THgDPkn",
+      "title": "Соусы,уксусы и масла"
+    },
+  ]
+}
