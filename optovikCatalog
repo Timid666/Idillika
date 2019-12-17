@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "imageLink": "[url=https://imgbb.com/][img]https://i.ibb.co/xqJvzCz/image-1.png[/img][/url]",
+      "imageLink": "https://i.ibb.co/xqJvzCz/image-1.png",
       "title": "Картошка фри 9мл LW(S01) «Стелс»",
       "price": "345 ₽",
       "weight": "2,5 кг"
@@ -23,7 +23,7 @@
     },
     {
       "id": 4,
-      "imageLink": "https://ibb.co/3mDWfHY",
+      "imageLink": "https://i.ibb.co/XxhpyTk/image-4.png",
       "title": "Лапша Удон",
       "price": "345 ₽",
       "weight": "300 кг"
