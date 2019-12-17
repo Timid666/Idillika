@@ -3,37 +3,57 @@
     {
       "id": 1,
       "imageLink": "https://i.ibb.co/hHtY2Z8/image.png",
-      "title": "Одежда"
+      "title": "Рыбное филе"
     },
     {
       "id": 2,
       "imageLink": "https://i.ibb.co/wsRfK2n/image.png",
-      "title": "Обувь"
+      "title": "Креветки,крабы и осьминоги"
     },
     {
       "id": 3,
       "imageLink": "https://i.ibb.co/MNB2dtF/image.png",
-      "title": "Сумки"
+      "title": "Икра"
     },
     {
       "id": 4,
       "imageLink": "https://i.ibb.co/gTwCXPb/Modest-Fashion.png",
-      "title": "Modest Fashion"
+      "title": "Водоросли"
     },
     {
       "id": 5,
       "imageLink": "https://i.ibb.co/tzStDXP/image.png",
-      "title": "Косметика"
+      "title": "Маринады и растения"
     },
     {
       "id": 6,
       "imageLink": "https://i.ibb.co/PzVNLKH/image.png",
-      "title": "Аксессуары"
+      "title": "Приправы и пасты"
     },
     {
       "id": 7,
       "imageLink": "https://i.ibb.co/fk7pHQW/image.png",
-      "title": "Для дома"
+      "title": "Соусы,уксусы и масла"
+    }
+    {
+      "id": 8,
+      "imageLink": "https://i.ibb.co/fk7pHQW/image.png",
+      "title": "Рис и мучные изделия"
+    }
+    {
+      "id": 9,
+      "imageLink": "https://i.ibb.co/fk7pHQW/image.png",
+      "title": "Италия"
+    }
+    {
+      "id": 10,
+      "imageLink": "https://i.ibb.co/fk7pHQW/image.png",
+      "title": "Оборудование"
+    }
+    {
+      "id": 11,
+      "imageLink": "https://i.ibb.co/fk7pHQW/image.png",
+      "title": "Товары под заказ"
     }
   ]
 }
